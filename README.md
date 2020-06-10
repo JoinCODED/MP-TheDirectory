@@ -1,4 +1,4 @@
-Your next project is going to be a directory-esque type of application. You'll have an array of objects in a data file (e.g. `shows.js`), display them minimally in a list view, and have a detail view for each object.
+Your next project is going to be a directory-esque type of application. You'll have an array of objects in a data file (e.g. `movies.js`), display them minimally in a list view, and have a detail view for each object.
 
 Here's a few ideas for your project to use/inspire you:
 
