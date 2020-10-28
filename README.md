@@ -2,8 +2,9 @@ Your next project is going to be a directory-esque type of application. You'll h
 
 Here's a few ideas for your project to use/inspire you:
 
-[Ollivander's Wand Shop](https://pastebin.com/raw/xgBHsdjq)\
-[!IMDB](https://pastebin.com/raw/ux1X77ff)
+[Ollivander's Wand Shop](https://gist.github.com/TheMshary/5ee2de8d41b58184c525ed67d5119bee)
+
+[!IMDB](https://gist.github.com/TheMshary/f2b766ce3c8b1f45612f30ae6ed201f7)
 
 Click on the link to get the data files. You can come up with your own idea for the project, and create your own data file.
 
